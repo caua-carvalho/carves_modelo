@@ -45,7 +45,7 @@ include_once "./estilo/header.html";
 
 <div class="container mt-5">
     <h1 class="text-center mb-4">Imóveis Disponíveis</h1>
-
+<h1>fadsjo</h1>
     <div class="row">
         <?php
             // Construindo a consulta SQL com filtros dinâmicos
